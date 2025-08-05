@@ -1,4 +1,5 @@
 🔐 Professional Statement – SOC Analyst
+
 As a Computer Programming graduate with strong software logic and analytical thinking skills,
 I am focused on building a career as a SOC (Security Operations Center) Analyst in the field of cybersecurity.
 I am currently strengthening my technical capabilities through sourcing information, hands-on practice, programming, and continuous improvement.

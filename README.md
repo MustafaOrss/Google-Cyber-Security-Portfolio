@@ -10,7 +10,14 @@ I aim to gain real-world experience using tools such as Splunk (SIEM), Python, M
 My goal is to contribute to the effective protection of organizations against cyber threats, respond to incidents in a timely manner, 
 and keep my skills up to date in the face of an ever-evolving threat landscape. Committed to best practices, teamwork, and a proactive mindset, I am determined to grow as a SOC Analyst who adds value to secure digital environments.
 
+
+Contents: 
+
 Foundations of Cybersecurity - I Learned about entry-level cybersecurity roles
 and responsibilities.
+
+- The evolution of cybersecurity.
+- Protect against threats, risks, and vulnerabilities.
+- Cybersecurity tools and programming languages.
 
 

@@ -17,6 +17,7 @@ Foundations of Cybersecurity - I Learned about entry-level cybersecurity roles
 and responsibilities.
 
 - Introduction to cybersecurity.
+- Core skills for cybersecurity professionals.
 - The evolution of cybersecurity.
 - Protect against threats, risks, and vulnerabilities.
 - Cybersecurity tools and programming languages.

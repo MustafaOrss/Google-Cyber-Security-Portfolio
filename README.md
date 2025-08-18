@@ -18,8 +18,8 @@ and responsibilities.
 
 - Introduction to cybersecurity.
 - Core skills for cybersecurity professionals.
-- The evolution of cybersecurity.
-- Protect against threats, risks, and vulnerabilities.
-- Cybersecurity tools and programming languages.
-
-
+- Attacks in the digital age.
+- Past cybersecurity attacks.
+- Introduction to the eight CISSP security domains.
+- Secure design.
+- Ethics in cybersecurity.

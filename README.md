@@ -23,3 +23,11 @@ and responsibilities.
 - Introduction to the eight CISSP security domains.
 - Secure design.
 - Ethics in cybersecurity.
+
+Play It Safe : Manage Security Risks - I understood the eight security domains of the CSSP. 
+I learned about primary threats, risks and vulnerabilities to business. 
+Also I explored the National Institute of Standarts and Technology's (NIST) Risk Management Framework and the steps of risk management.
+
+- Explore the CISSP security domains.
+- Threats, Risks, Vulnerabilities and Impacts.
+- Manage common threats risks and vulnerabilities.

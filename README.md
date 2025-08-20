@@ -31,3 +31,4 @@ Also I explored the National Institute of Standarts and Technology's (NIST) Risk
 - Explore the CISSP security domains.
 - Threats, Risks, Vulnerabilities and Impacts.
 - Manage common threats risks and vulnerabilities.
+- NISTs Risk Management Framework.

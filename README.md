@@ -32,3 +32,9 @@ Also I explored the National Institute of Standarts and Technology's (NIST) Risk
 - Threats, Risks, Vulnerabilities and Impacts.
 - Manage common threats risks and vulnerabilities.
 - NISTs Risk Management Framework.
+- Frameworks.
+- Controls.
+- Relationship between frameworks and controls.
+- Explore CIA triad and protect organizations.
+- NIST frameworks and explore five functions.
+- OWASP security principles. 

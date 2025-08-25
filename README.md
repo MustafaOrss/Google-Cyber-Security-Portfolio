@@ -37,4 +37,5 @@ Also I explored the National Institute of Standarts and Technology's (NIST) Risk
 - Relationship between frameworks and controls.
 - Explore CIA triad and protect organizations.
 - NIST frameworks and explore five functions.
-- OWASP security principles. 
+- OWASP security principles.
+- Plan and Complete a security audit

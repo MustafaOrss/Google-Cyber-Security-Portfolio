@@ -38,4 +38,6 @@ Also I explored the National Institute of Standarts and Technology's (NIST) Risk
 - Explore CIA triad and protect organizations.
 - NIST frameworks and explore five functions.
 - OWASP security principles.
-- Plan and Complete a security audit
+- Plan and Complete a security audit.
+- Botium Toys Scope and Goals.
+- Botium Toys Risk Assessment.

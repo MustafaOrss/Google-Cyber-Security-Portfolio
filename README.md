@@ -27,6 +27,7 @@ and responsibilities.
 Play It Safe : Manage Security Risks - I understood the eight security domains of the CSSP. 
 I learned about primary threats, risks and vulnerabilities to business. 
 Also I explored the National Institute of Standarts and Technology's (NIST) Risk Management Framework and the steps of risk management.
+And I planed a security audit.
 
 - Explore the CISSP security domains.
 - Threats, Risks, Vulnerabilities and Impacts.
@@ -41,3 +42,6 @@ Also I explored the National Institute of Standarts and Technology's (NIST) Risk
 - Plan and Complete a security audit.
 - Botium Toys Scope and Goals.
 - Botium Toys Risk Assessment.
+- Controls assessment priority.
+- Controls and Compliance Checklist.
+- Stakeholder communication plan.

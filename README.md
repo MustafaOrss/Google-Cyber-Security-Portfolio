@@ -45,3 +45,4 @@ And I planed a security audit.
 - Controls assessment priority.
 - Controls and Compliance Checklist.
 - Stakeholder communication plan.
+- Logs and SIEM tools.

@@ -46,3 +46,11 @@ And I planed a security audit.
 - Controls and Compliance Checklist.
 - Stakeholder communication plan.
 - Logs and SIEM tools.
+
+Connect and Protect: I learned about network structure, standard networking tools, cloud networks, and the basic framework for organizing communications 
+over a network called the TCP/IP model. I understood how to protect my organization's network from threats, risks, and vulnerabilities.
+I also learned about network-level vulnerabilities and how to secure them.
+
+- Introduction to networks
+
+
